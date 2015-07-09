@@ -12,6 +12,7 @@ import android.util.Log;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 
+// This is a comment that can be deleted.
 
 /**
  * A basic camera preview class
